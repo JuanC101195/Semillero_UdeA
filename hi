@@ -1,0 +1,41 @@
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Semillero de Analítica de Datos</h1>
+    </header>
+    <nav>
+      <a href="#inicio">Inicio</a>
+      <a href="#nosotros">Nosotros</a>
+      <a href="#eventos">Eventos</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+    <section id="inicio">
+      <h2>Bienvenidos al Semillero de Analítica de Datos</h2>
+      <p>En nuestro semillero nos enfocamos en aprender y aplicar técnicas de análisis de datos para resolver problemas reales. ¡Únete a nosotros!</p>
+    </section>
+    <section id="nosotros">
+      <h2>Nosotros</h2>
+      <p>Somos un grupo de estudiantes y profesores interesados en la analítica de datos. Nos reunimos regularmente para aprender juntos y compartir nuestras experiencias.</p>
+      <h3>Objetivos</h3>
+      <ul>
+        <li>Aprender técnicas de análisis de datos.</li>
+        <li>Aplicar la analítica de datos para resolver problemas reales.</li>
+        <li>Compartir nuestras experiencias y conocimientos.</li>
+      </ul>
+    </section>
+    <section id="eventos">
+      <h2>Eventos</h2>
+      <ul>
+        <li>
+          <h3>Charla sobre análisis exploratorio de datos</h3>
+          <p>Fecha: martes, 10 de marzo</p>
+          <p>Hora: 3:00 pm - 5:00 pm</p>
+          <p>Lugar: salón 201</p>
+        </li>
+        <li>
+          <h3>Taller de programación en Python para análisis de datos</h3>
+          <p>Fecha: jueves, 12 de marzo</p>
+          <p>Hora: 4:00 pm - 6:00 pm</p>
+          <p>Lugar: labor
